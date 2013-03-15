@@ -21,7 +21,7 @@ If you use node/npm from your distributions repository, I highly recommend upgra
 3. run `npm install`
 4. If you are planning on putting your project under git version control, you probably want to remove the .gitignore files from the app/ folder and all of its sub folders. 
 
-# Running the app in during development # 
+# Running the app in during development #
 
 You can pick one of the these options:
 
